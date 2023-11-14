@@ -1,5 +1,5 @@
 ---
 title: Welcome to my page
-Hello
+<h3>My Headings</h3>
 ---
 
